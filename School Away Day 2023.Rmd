@@ -89,22 +89,21 @@ class: middle
 
 * New modules
 * Teaching activities/hours
-* Assessment structure
+* Assessment
 
 ### Learning and Assessment Activities
 * Term-time assessments
 * Workshops
 * Tutorials
 
-### **Discussion:** Tutorials
+### Discussion: Tutorials
 * Over to you!
 
 ---
 
 name: modules
-class: middle
 
-## New Modules
+## Year 1 Programme Structure
 
 .pull-left[
 ### Core Mathematics
@@ -141,7 +140,7 @@ class: top
 
 ---
 
-## Teaching Activities
+## Year 1 Programme Structure
 .panelset[
 .panel[.panel-name[Teaching Blocks]
 
@@ -221,23 +220,23 @@ class: top
 .pull-left[
 ### Mathematical Fundamentals (Core)
 
-* Teaching Sessions: **5 hours**
-* Workshop: **2 hours**
+* Teaching Sessions: **5 hours/week**
+* Workshop: **2 hours/week**
  - Cohort split into 3 groups
-* Tutorial: **1 hour**
+* Tutorial: **1 hour/week**
  - Tutor groups (5/6)
-* (Optional) Drop-In: **2 hours**
-* PASS Session: **1 hour fortnightly**
+* (Optional) Drop-In: **2 hours/week**
+* PASS Session: **1 hour/fortnight**
   - PASS Groups (15-20)
 ]
 
 .pull-right[
 ### Introduction to Modelling and Simulation (Probability & Statistics + Applied)
-* Teaching Sessions: **5 hours**
+* Teaching Sessions: **5 hours/week**
  - Includes computing in Python
  
 ### Algebra
-* Teaching Sessions: **3 hours**
+* Teaching Sessions: **3 hours/week**
 ]
 <br>
 <br>
@@ -250,35 +249,136 @@ class: top
 .pull-left[
 ### Core Mathematics
 
-* Teaching Sessions: **6 hours**
+* Teaching Sessions: **6 hours/week**
  - 3 hours Analysis + 3 hours Linear Algebra
-* Workshop: **2 hours**
+* Workshop: **2 hours/week**
  - Cohort split into 3 groups
-* Tutorial: **1 hour**
+* Tutorial: **1 hour/week**
  - Tutor groups (5/6)
-* (Optional) Drop-In: **2 hours**
-* PASS Session: **1 hour fortnightly**
+* (Optional) Drop-In: **2 hours/week**
+* PASS Session: **1 hour/fortnight**
  - PASS Groups (15-20)
 ]
 
 .pull-right[
 ### Probability & Statistics
-* Teaching Sessions: **3/4 hours**
- - 4 hours in Autumn Block 2
+* Teaching Sessions: **3/4 hours/week**
+ - 4 hours/week in Autumn Block 2
  - Includes computing in R
  
 ### Applied Mathematics
-* Teaching Sessions: **3 hours**
+* Teaching Sessions: **3 hours/week**
 
 ### Algebra
-* Teaching Sessions: **3 hours**
+* Teaching Sessions: **3 hours/week**
 ]
 <br>
-.center[#### Total: 18-20 compulsory + 2 optional]]
+.center[#### Total: 18-20 compulsory + 2 optional]
+]
+
+.panel[.panel-name[Assessment]
+.pull-left[
+### Core Mathematics
+* Autumn Exam: 30%
+* Spring Exam: 30%
+* Coursework: 40%
+ - Tutorial Prep Questions: 2 $\times$ 5% = 10%
+ - ePortfolio: 4 $\times$ 2% = 8%
+ - Peerwise Engagement: 3% + 4% = 7%
+ - Autumn Poster Project: 5%
+ - Spring Presentation Project: 10%
+]
+
+.pull-right[
+### Probability & Statistics
+* Autumn Combined Exam: 30%
+* Spring Combined Exam: 30%
+* Coursework: 40%
+ - Statistics Investigations: 2 $\times$ 20% = 40%
+ 
+### Applied Mathematics/Algebra
+* Autumn Combined Exam: 30%
+* Spring Combined Exam: 30%
+* Coursework: 40%
+ - Fortnightly Problems: 2 $\times$ 20% = 40%
+ - Alternating between Applied and Algebra
+]
+
+**All elements (Exam 1 + Exam 2 + Coursework) must be passed in order to pass the module \- resits for each element instead of a single "supplementary resit" exam**
+]
 ]
 
 ---
+## New Assessments Demystified
 
+.panelset.sideways[
+.panel[.panel-name[Combined Exam]
+One 3-hour exam at the end of each semester covering Probability & Statistics + Applied Mathematics + Algebra.
+
+Marks extracted from questions covering each module to feed into module mark.
+
+Variants of the paper given to Joint Honours students, e.g. 1-hour Proabability & Statistics exam for Maths & Economics students. The questions will be the same as on the combined paper and students will start the exam at the same time as single honours.
+
+Encourages students to revise modules together instead of cramming and compartmentalising knowledge for multiple separate exams.
+
+Significant reduction in staff workload in writing, moderating and marking exams.]
+
+.panel[.panel-name[Tutorial Prep Questions]
+A set of questions will be given to the students in most weeks during the term (see schedule in the next slide).
+
+The questions will be released as a Moodle quiz with automatic assessment (either multiple-choice or using the [STACK automated assessment tool](https://stack-assessment.org/)).
+
+The questions will have random variables in them wherever possible to discourage collusion.
+
+Most of the questions will be unassessed, with instant automated assessment but one question will be selected for assessment.
+
+Students are required to upload a scan of their working for the assessed question, which will be reviewed by their tutor and given a mark for the quality of their work against given marking criteria. If the question requires a calculation, this will be automatically assessed wherever possible to unburden tutors from checking laborious calculations.
+
+**More on this in the upcoming discussion!**]
+
+.panel[.panel-name[ePortfolio]
+Students will be provided with a scaffolded OneNote document, based on a template from University of Bath, in which they reflect on their progress and record evidence of their academic skills development throughout the year.
+
+The ePortfolio will be reviewed and marked by the Head of Year (and others) four times, at the end of each Teaching Block. Each submission counts separately towards the coursework mark to encourage regular engagement with the ePortfolio.
+
+Training will be provided in workshops on how to complete the ePortfolio, and time given to complete it with staff available to help.
+
+The ePortfolio will be used as a framework for the one-to-one progress meetings with tutors.]
+
+.panel[.panel-name[Peerwise]
+[Peerwise](https://peerwise.cs.auckland.ac.nz/at/?nottingham_uk) is an online tool which students use to design, share, evaluate and discuss multiple-choice questions.
+
+There will be one round of Peerwise engagement in the second block of each semester.
+
+Peerwise has been very successful in Chemistry for several years ([see this paper](https://pubs.rsc.org/en/content/articlehtml/2015/rp/c4rp00209a)). We have consulted with the Peerwise lead in Chemistry (Kyle Galloway) to design our approach to using it.
+
+Writing, answering and evaluating each other's questions provides several benefits for students, from building a strong sense of community to having an excellent revision resource (tailored to our programmes) at the end of the year.]
+
+.panel[.panel-name[Poster Project]
+This will take place in the Autumn Project Week.
+
+Students will be given a week to work in a group to produce a poster explaining a mathematical topic of their choice (either from A Level or the first few weeks of their degree).
+
+The target audience is A Level students in Year 13 (final year of school), enticing them to study Mathematics at University.
+
+Marks will be awarded for the submitted poster, but all students will be invited to a Poster Expo Event in the Maths Atrium on the Friday of Project Week to share their work with other students and staff in the school. This part is not assessed, but attendance is strongly encouraged. This event is a chance to build a strong staff-student community from an early stage for our new first-years.]
+
+.panel[.panel-name[Presentation Project]
+This will take place in the Spring Project Week.
+
+Students will be given a week to work in a group to work on a problem or literature-review exercise to do on a mathematical topic/area, where they choose from a given list.
+
+Students must produce a 5-minute video to summarise their findings. The video can be in any format students choose, from narrated PowerPoint to a music video.
+
+Training will be provided in workshops prior to the project week and during the week on general presentation skills and on recommended software/hardware for producing videos.
+
+We will use carefully-written assessment criteria to make sure we are not giving students with a strong technical background in (e.g.) video editing an unfair advantage. The assessment will focus on the quality of the mathematical content, clarity, etc.
+
+Giving the students some choice of how they will be assessed will give them a strong sense of ownership of the task, and will benefit more from the experience as a result.
+
+The videos will be screened (where students can request their video be omitted) at a "Watch Party" event on the Friday of the Project Week.
+]
+]
 
 
 ---
