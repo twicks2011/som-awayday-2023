@@ -44,7 +44,13 @@ style_duo_accent(
     caribbean_current = "#006c67",
     crimson = "#d72638",
     green = "#009901",
-    beige = "#ffdd9b"
+    beige = "#ffdd9b",
+    formative = "#f0d900",
+    blend = "#f3900a",
+    summative = "#F35447",
+    feedback = "#54eaa6",
+    skills = "#fd54da",
+    maths = "#1fd0fd"
   ),
   extra_fonts = list(
     google_font("Oswald"),
@@ -309,7 +315,7 @@ class: top
 ]
 
 ---
-## New Assessments Demystified
+## New Assessments
 
 .panelset.sideways[
 .panel[.panel-name[Combined Exam]
@@ -380,9 +386,222 @@ The videos will be screened (where students can request their video be omitted) 
 ]
 ]
 
+---
+.left-column[
+# Autumn Block 1
 
+.large[.black.bg-formative[&nbsp;Formative&nbsp;]]
+
+.large[.black.bg-blend[&nbsp;Blend&nbsp;]]
+
+.large[.black.bg-summative[&nbsp;Summative&nbsp;]]
+
+.large[.black.bg-feedback[&nbsp;Feedback&nbsp;]]
+
+.large[.black.bg-maths[&nbsp;Mathematics&nbsp;]]
+
+.large[.black.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]
+]
+.right-column[
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:3px 7px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:3px 7px;word-break:normal;}
+.tg .tg-6cjk{background-color:#f35447;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-6h66{background-color:#FFF;border-color:#000000;font-family:inherit;font-size:x-small;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-9jv4{background-color:#f0d900;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-2ebm{background-color:#ffffff;border-color:#000000;font-family:inherit;font-size:x-small;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-l3vq{background-color:#f3900a;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-jvqp{background-color:#ffffff;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-4ue9{background-color:#54eaa6;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-kc9g{background-color:#1fd0fd;border-color:#000000;color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-8x9r{background-color:#fd54da;border-color:#000000;color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2ebm">Module</th>
+    <th class="tg-2ebm">Week 1</th>
+    <th class="tg-2ebm">Week 2</th>
+    <th class="tg-2ebm">Week 3</th>
+    <th class="tg-2ebm">Week 4</th>
+    <th class="tg-2ebm">Week 5</th>
+    <th class="tg-6h66">Week 6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2ebm">Mathematical<br>Fundamentals</td>
+    <td class="tg-9jv4">A Level Qs</td>
+    <td class="tg-l3vq">Week 2 Qs</td>
+    <td class="tg-l3vq">Week 3 Qs</td>
+    <td class="tg-l3vq">Week 4 Qs</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-6cjk" rowspan="6">Poster Project<br><br><br>ePortfolio<br>Submission 1</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Introduction to <br>Modelling &amp;<br>Simulation</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-9jv4">Prob Set 1</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-9jv4">Prob Set 2</td>
+    <td class="tg-9jv4">Python Test</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Algebra</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-l3vq">Prob Set 1</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-l3vq">Prob Set 2</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Tutorial</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-4ue9">A Level Qs<br>Follow-up</td>
+    <td class="tg-4ue9">Week 2 Qs<br>Follow-up</td>
+    <td class="tg-4ue9">Week 3 Qs<br>Follow-up + <br>ePortfolio <br>Discussion</td>
+    <td class="tg-4ue9">Week 4 Qs<br>Follow-up +<br>Project Week <br>Discussion</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm" rowspan="2">Workshop</td>
+    <td class="tg-kc9g">University<br>Maths Qs</td>
+    <td class="tg-kc9g">Peer Marking</td>
+    <td class="tg-kc9g">Maths Probs<br>(think-pair-share)</td>
+    <td class="tg-kc9g">Academic Posters<br>- make a maths <br>poster</td>
+    <td class="tg-8x9r">Teamwork</td>
+  </tr>
+  <tr>
+    <td class="tg-8x9r">Learning at<br>University +<br>Intro to <br>STACK</td>
+    <td class="tg-8x9r">Managing<br>Time/Workload</td>
+    <td class="tg-8x9r">ePortfolio</td>
+    <td class="tg-8x9r">Peer Mark <br>Posters</td>
+    <td class="tg-8x9r">Project Week<br>Briefing</td>
+  </tr>
+</tbody>
+</table>
+]
 ---
 
+---
+.left-column[
+# Autumn Block 2
+
+.large[.black.bg-formative[&nbsp;Formative&nbsp;]]
+
+.large[.black.bg-blend[&nbsp;Blend&nbsp;]]
+
+.large[.black.bg-summative[&nbsp;Summative&nbsp;]]
+
+.large[.black.bg-feedback[&nbsp;Feedback&nbsp;]]
+
+.large[.black.bg-maths[&nbsp;Mathematics&nbsp;]]
+
+.large[.black.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]
+]
+.right-column[
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:20px 20px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:20px 20px;word-break:normal;}
+.tg .tg-6cjk{background-color:#f35447;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-6h66{background-color:#FFF;border-color:#000000;font-family:inherit;font-size:x-small;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-9jv4{background-color:#f0d900;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-2ebm{background-color:#ffffff;border-color:#000000;font-family:inherit;font-size:x-small;font-weight:bold;text-align:center;
+  vertical-align:middle}
+.tg .tg-l3vq{background-color:#f3900a;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-jvqp{background-color:#ffffff;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-4ue9{background-color:#54eaa6;border-color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-kc9g{background-color:#1fd0fd;border-color:#000000;color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+.tg .tg-8x9r{background-color:#fd54da;border-color:#000000;color:#000000;font-family:inherit;font-size:x-small;text-align:center;
+  vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2ebm">Module</th>
+    <th class="tg-2ebm">Week 1</th>
+    <th class="tg-2ebm">Week 2</th>
+    <th class="tg-2ebm">Week 3</th>
+    <th class="tg-2ebm">Week 4</th>
+    <th class="tg-2ebm">Week 5</th>
+    <th class="tg-6h66">Week 6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2ebm">Mathematical<br>Fundamentals</td>
+    <td class="tg-9jv4">A Level Qs</td>
+    <td class="tg-l3vq">Week 2 Qs</td>
+    <td class="tg-l3vq">Week 3 Qs</td>
+    <td class="tg-l3vq">Week 4 Qs</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-6cjk" rowspan="6">Poster Project<br><br><br>ePortfolio<br>Submission 1</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Introduction to <br>Modelling &amp;<br>Simulation</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-9jv4">Prob Set 1</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-9jv4">Prob Set 2</td>
+    <td class="tg-9jv4">Python Test</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Algebra</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-l3vq">Prob Set 1</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-l3vq">Prob Set 2</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm">Tutorial</td>
+    <td class="tg-jvqp"></td>
+    <td class="tg-4ue9">A Level Qs<br>Follow-up</td>
+    <td class="tg-4ue9">Week 2 Qs<br>Follow-up</td>
+    <td class="tg-4ue9">Week 3 Qs<br>Follow-up + <br>ePortfolio <br>Discussion</td>
+    <td class="tg-4ue9">Week 4 Qs<br>Follow-up +<br>Project Week <br>Discussion</td>
+  </tr>
+  <tr>
+    <td class="tg-2ebm" rowspan="2">Workshop</td>
+    <td class="tg-kc9g">University<br>Maths Qs</td>
+    <td class="tg-kc9g">Peer Marking</td>
+    <td class="tg-kc9g">Maths Probs<br>(think-pair-share)</td>
+    <td class="tg-kc9g">Academic Posters<br>- make a maths <br>poster</td>
+    <td class="tg-8x9r">Teamwork</td>
+  </tr>
+  <tr>
+    <td class="tg-8x9r">Learning at<br>University +<br>Intro to <br>STACK</td>
+    <td class="tg-8x9r">Managing<br>Time/Workload</td>
+    <td class="tg-8x9r">ePortfolio</td>
+    <td class="tg-8x9r">Peer Mark <br>Posters</td>
+    <td class="tg-8x9r">Project Week<br>Briefing</td>
+  </tr>
+</tbody>
+</table>
+]
+
+---
 
 ## panelset Testing
 
