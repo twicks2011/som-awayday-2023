@@ -1,0 +1,152 @@
+/* All now defined in rmd via xaringanthemer
+:root {
+  --primcol: #4D204E;
+  --compprimcol: #214e20;
+  --royal-purple: #6247aa;
+  --platinum: #d8dbe2;
+  --caribbean-current: #006c67;
+  --black: #08090a;
+  --crimson: #d72638;
+}*/
+
+/* Using xaringanthemer the names of fonts are defined in the rmd */
+/* they are called primary, secondary etc... */
+
+a, a > code {
+  /* color: var(--link_color); edited by xaringanthemere automatically now */
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color: var(--secondary);
+  text-decoration-style: double;
+}
+
+/* headers and fonts*/
+h1, h2, h3 {
+  margin-top: 0;
+  margin-left: 0;
+  font-family: 'Oswald';
+  font-weight: normal;
+  /*color: var(--primcol); default already is primary */
+
+}
+
+.large {
+  font-size: 23px;
+}
+
+.small {
+  font-size: 15px;
+}
+
+.remark-slide-content > h1 {
+  font-weight: normal;
+  margin-top: 10px;
+  margin-left: -00px;
+}
+
+.remark-slide-content {
+  border-top: 8px solid var(--primcol);
+  border-bottom: 8px solid var(--primcol);
+  border-right: 11px solid var(--primcol);
+  border-left: 11px solid var(--primcol);
+  padding: 1em 2em 1em 2em;
+  /*background-color: #fff;*/
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+/* slide number */
+.remark-slide-number {
+  font-size: 1rem;
+  font-family: 'EB Garamond';
+  opacity: 1;
+}
+.inverse .remark-slide-number {
+  font-size: 1rem;
+  font-family: 'EB Garamond';
+  color: #fff;
+  opacity: 1;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+/* Markdown side-by-side demo slide layout */
+
+/* Draw nice frame around code and output */
+
+.markdowndemo .pull-left pre {
+  padding:5px;
+  border: 2px dashed var(--secondary);
+}
+
+.markdowndemo .pull-right .boxed {
+  padding:10px;
+  border: 2px dashed var(--secondary);
+}
+
+.rdemolayout .pull-left pre {
+  padding:5px;
+  border: 2px dashed var(--secondary);
+}
+
+.rdemolayout .pull-right pre {
+  padding:5px;
+  border: 2px dashed var(--secondary);
+}
+
+/* Design my own title slide */
+
+.mytitleslide {
+  background-color: var(--primary);
+  color:white;
+}
+
+.mytitleslide > h1, .mytitleslide > h2, .mytitleslide > h3 {
+  color:white;
+}
+
+.mytitleslide hr {
+  width: 50%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* Design my own 'image over link' class */
+
+.image-over-link-120 {
+  display: inline-block;
+  text-align:center;
+  padding:2px;
+  width:120px;
+  border: 1px dashed black;
+}
+
+.image-over-link img {
+  display:inherit;
+  width:inherit;
+  /* border: 2px solid red; */
+}
+
+.image-over-link a {
+  display:inherit;
+  width:inherit;
+  /* border: 2px solid blue; */
+}
+
+/* Increase spacing between bullet point items by 8px */
+
+.remark-slide-content ol li, .remark-slide-content ul li {
+  margin-bottom:8px;
+}
+
+.panelset {
+  --panel-tab-active-foreground: var(--primary);
+  --panel-tab-hover-foreground: var(--secondary);
+  --panel-tab-inactive-opacity: 0.8;
+  --panel-tab-font-family: Oswald;
+}
