@@ -287,6 +287,8 @@ class: top
  - Peerwise Engagement: 3% + 4% = 7%
  - Autumn Poster Project: 5%
  - Spring Presentation Project: 10%
+ 
+**All elements (Exam 1 + Exam 2 + Coursework) must be passed in order to pass each module \- resits for each element instead of a single "supplementary resit" exam**
 ]
 
 .pull-right[
@@ -303,8 +305,6 @@ class: top
  - Fortnightly Problems: 2 $\times$ 20% = 40%
  - Alternating between Applied and Algebra
 ]
-
-**All elements (Exam 1 + Exam 2 + Coursework) must be passed in order to pass the module \- resits for each element instead of a single "supplementary resit" exam**
 ]
 ]
 
