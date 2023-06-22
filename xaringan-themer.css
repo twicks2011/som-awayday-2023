@@ -69,6 +69,12 @@
   --crimson: #d72638;
   --green: #009901;
   --beige: #ffdd9b;
+  --formative: #f0d900;
+  --blend: #f3900a;
+  --summative: #F35447;
+  --feedback: #54eaa6;
+  --skills: #fd54da;
+  --maths: #1fd0fd;
 }
 
 html {
@@ -341,5 +347,41 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 }
 .bg-beige {
   background-color: var(--beige);
+}
+.formative {
+  color: var(--formative);
+}
+.bg-formative {
+  background-color: var(--formative);
+}
+.blend {
+  color: var(--blend);
+}
+.bg-blend {
+  background-color: var(--blend);
+}
+.summative {
+  color: var(--summative);
+}
+.bg-summative {
+  background-color: var(--summative);
+}
+.feedback {
+  color: var(--feedback);
+}
+.bg-feedback {
+  background-color: var(--feedback);
+}
+.skills {
+  color: var(--skills);
+}
+.bg-skills {
+  background-color: var(--skills);
+}
+.maths {
+  color: var(--maths);
+}
+.bg-maths {
+  background-color: var(--maths);
 }
 
