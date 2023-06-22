@@ -390,17 +390,19 @@ The videos will be screened (where students can request their video be omitted) 
 .left-column[
 # Autumn Block 1
 
-.large[.black.bg-formative[&nbsp;Formative&nbsp;]]
+.large[<span style="background-color: var(--formative)">&nbsp;Formative&nbsp;</span>]
 
-.large[.black.bg-blend[&nbsp;Blend&nbsp;]]
+.large[.bg-formative[&nbsp;Formative&nbsp;]]
 
-.large[.black.bg-summative[&nbsp;Summative&nbsp;]]
+.large[.bg-blend[&nbsp;Blend&nbsp;]]
 
-.large[.black.bg-feedback[&nbsp;Feedback&nbsp;]]
+.large[.bg-summative[&nbsp;Summative&nbsp;]]
 
-.large[.black.bg-maths[&nbsp;Mathematics&nbsp;]]
+.large[.bg-feedback[&nbsp;Feedback&nbsp;]]
 
-.large[.black.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]
+.large[.bg-maths[&nbsp;Mathematics&nbsp;]]
+
+.large[.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]
 ]
 .right-column[
 <style type="text/css">
