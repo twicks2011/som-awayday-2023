@@ -387,24 +387,7 @@ The videos will be screened (where students can request their video be omitted) 
 ]
 
 ---
-.left-column[
-# Autumn Block 1
-
-<span style="background-color: var(--formative)">&nbsp;Formative&nbsp;</span>
-
-.large[.bg-formative[&nbsp;Formative&nbsp;]]
-
-.large[.bg-blend[&nbsp;Blend&nbsp;]]
-
-.large[.bg-summative[&nbsp;Summative&nbsp;]]
-
-.large[.bg-feedback[&nbsp;Feedback&nbsp;]]
-
-.large[.bg-maths[&nbsp;Mathematics&nbsp;]]
-
-.large[.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]
-]
-.right-column[
+## Autumn Block 1
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -495,7 +478,11 @@ The videos will be screened (where students can request their video be omitted) 
   </tr>
 </tbody>
 </table>
-]
+<br>
+.center[.large[.bg-formative[&nbsp;Formative&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+.large[.bg-blend[&nbsp;Blend&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-summative[&nbsp;Summative&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-feedback[&nbsp;Feedback&nbsp;]]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-maths[&nbsp;Mathematics&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+.large[.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]]
 
 ---
 .left-column[
