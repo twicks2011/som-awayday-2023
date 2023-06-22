@@ -479,7 +479,7 @@ The videos will be screened (where students can request their video be omitted) 
 </tbody>
 </table>
 <br>
-.center[.large[<span style="background-color:#00FEFE"> [&nbsp;Formative&nbsp;]]</style>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+.center[.large[.bg-formative[&nbsp;Formative&nbsp;]]</style>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 .large[.bg-blend[&nbsp;Blend&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-summative[&nbsp;Summative&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-feedback[&nbsp;Feedback&nbsp;]]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.large[.bg-maths[&nbsp;Mathematics&nbsp;]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 .large[.bg-skills[&nbsp;Academic/Employability Skills&nbsp;]]]
