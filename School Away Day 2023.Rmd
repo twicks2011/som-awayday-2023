@@ -390,7 +390,7 @@ The videos will be screened (where students can request their video be omitted) 
 .left-column[
 # Autumn Block 1
 
-.large[<span style="background-color: var(--formative)">&nbsp;Formative&nbsp;</span>]
+<span style="background-color: var(--formative)">&nbsp;Formative&nbsp;</span>
 
 .large[.bg-formative[&nbsp;Formative&nbsp;]]
 
