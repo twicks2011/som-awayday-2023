@@ -89,7 +89,7 @@ class: middle center mytitleslide
 Today, I'm using slides created in HTML in an attempt to provide information in a more accessible format.
 
 .pull-left[
-### Upcoming Accessbility Events
+### Upcoming Accessibility Events
 * Digital Accessibility Conference: **Thursday 29th June**
  - Conference website: [https://xerte.nottingham.ac.uk/play_46879](https://xerte.nottingham.ac.uk/play_46879)
 * School Workshop on Creating Accessible HTML Notes: **Wednesday 5th July 1-3pm**
@@ -350,7 +350,7 @@ One 3-hour exam at the end of each semester covering Probability & Statistics + 
 
 Marks extracted from questions covering each module to feed into module mark.
 
-Variants of the paper given to Joint Honours students, e.g. 1-hour Proabability & Statistics exam for Maths & Economics students. The questions will be the same as on the combined paper and students will start the exam at the same time as single honours.
+Variants of the paper given to Joint Honours students, e.g. 1-hour Probability & Statistics exam for Maths & Economics students. The questions will be the same as on the combined paper and students will start the exam at the same time as single honours.
 
 Encourages students to revise modules together instead of cramming and compartmentalising knowledge for multiple separate exams.
 
